@@ -4,7 +4,9 @@ Unauthenticated information disclosure in the WordPress stage show plugin versio
 ### Description
 Vulnerable file location: : /wp-content/plugins/stageshow/lib/phpinfo.php <br>
 Link : https://en-gb.wordpress.org/plugins/stageshow/#description <br>
-Version : - < **9.8.5**
+Version : - < **9.8.5** <br>
+Parameter: N/A <br>
+Status: unpatched <br>
 
 ### Code snippet: 
 
